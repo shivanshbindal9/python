@@ -1,0 +1,9 @@
+fkhgckggrite a python class FileInfo that is initialized with two fields, the name of an input file and the name of an output file. Write a function process() to go through the input file and write the following statistics to the output file. Use the minimum number of loops and try to maximize the efficiency of the algorithm. Learn about the keyword with.
+kgfckhgckghck,hgvkmhb.
+kgckghc khgc kghc k,hvc kh,c lgh.jkbikjbjbkkb.
+hjvjhvjh.
+shivansh@gmail.com.........
+123
+@#$%
+123
+poit

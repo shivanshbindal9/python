@@ -1,0 +1,1 @@
+no of vowels 119, consonents 254, symbols 27 , numbers 6, word count 76 ,line count 9
